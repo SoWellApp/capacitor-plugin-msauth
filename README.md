@@ -2,7 +2,7 @@
 This plugin contains an implementation of MSAL for Capacitor. 
 
 ## Installation
-* `yarn add @recognizebv/capacitor-plugin-msauth`
+* `yarn add @sowell/capacitor-plugin-msauth`
 * `npx cap sync`
 * Create an app registration
 * In the app registration, go to Authentication, and then Add platform, and then iOS/macOS
